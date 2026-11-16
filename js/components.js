@@ -75,6 +75,9 @@ class nav_custom extends HTMLElement {
             <!-- 導覽列 -->
         <div style="display: flex; width: 100%; align-items: center; justify-content: space-between;">
             <div style="padding: 0.5rem 1rem;">
+                <a href="/2026/" aria-label="前往 QRACON 2026 年度官網" style="color: white; text-decoration: none; white-space: nowrap;">
+                    <h4 style="margin: 0;">QRACON 2026</h4>
+                </a>
             </div>
 
             <!-- 漢堡按鈕 -->
@@ -137,4 +140,3 @@ class footer_custom extends HTMLElement {
   }
   
   customElements.define('footer-custom', footer_custom);
-  

@@ -5,3 +5,5 @@
 感謝上游貢獻者 [@Rexi0227](https://github.com/Rexi0227) 維護 QRACON 2025 網站。上游 repository 目前沒有附上 LICENSE 檔。
 
 GitHub Pages 使用 `main` branch 根目錄發布，網站路徑為共用網域下的 `/2025/`。每次 `main` 有新 commit 時，GitHub Pages 會自動重新發布。
+
+網站導覽列提供前往最新年度 `/2026/` 的入口；根網址則直接前往最新年度網站。
